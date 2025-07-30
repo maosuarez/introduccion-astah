@@ -2,6 +2,8 @@
 
 Este repositorio guía a estudiantes y desarrolladores en el uso de **Astah UML (versión gratuita para estudiantes)** para realizar diagramas y modelos utilizados en arquitectura de software y sistemas empresariales.
 
+![alt text](image.png)
+
 ---
 
 ## 🧩 ¿Qué es Astah UML?
